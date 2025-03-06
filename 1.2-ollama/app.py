@@ -22,7 +22,7 @@ prompt = ChatPromptTemplate.from_messages(
 
 ## streamlit framework
 
-st.title("Langchain Demo With llama3 Model")
+st.title("How Emmi Can Assist Today")
 input_text = st.text_input("Enter your question:")
 
 ## Ollama LLM llama3 model
